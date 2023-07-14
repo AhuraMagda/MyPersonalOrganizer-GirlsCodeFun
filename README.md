@@ -12,7 +12,7 @@ This is a project from a React Meetup organized by Fundacja Girls Code Fun and Q
 
 ## Overview
 ### Links
-- Link to the website: []()
+- Link to the website: [https://my-organizer-gcf.netlify.app/](https://my-organizer-gcf.netlify.app/)
 
 ## My process
 ### Built with
